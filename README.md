@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -33,4 +34,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/karthikreddyk18/daily-leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Array
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
