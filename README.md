@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
