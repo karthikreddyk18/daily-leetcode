@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0069-sqrtx) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0069-sqrtx) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Heap (Priority Queue)
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
