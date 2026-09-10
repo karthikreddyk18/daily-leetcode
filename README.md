@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
