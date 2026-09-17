@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
