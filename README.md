@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0451-sort-characters-by-frequency](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0451-sort-characters-by-frequency](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
