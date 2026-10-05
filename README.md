@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0451-sort-characters-by-frequency](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0856-score-of-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0856-score-of-parentheses) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0338-counting-bits) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
