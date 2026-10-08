@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0451-sort-characters-by-frequency](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karthikreddyk18/daily-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -132,8 +133,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/karthikreddyk18/daily-leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
